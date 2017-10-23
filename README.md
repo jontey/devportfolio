@@ -33,10 +33,6 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 ## Setup and Configuration
 
-The setup required can be broken into two types:
-1. If you want to make edits or customize the template
-2. If you just want to add your information as use as is
-
 ### Building
 
 To setup, simply fork the repo and run `npm install` in order to get all the build dependencies. Next, run `npm run build` to compile the project. Finished builds will appear in the `build` folder. Just open `build/index.html` in your browser to see the result.
