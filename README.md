@@ -14,7 +14,7 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 - [Setup and Configuration](#setup-and-configuration)
     - [Building](#building)
-    - [Making edits using Webpack Hot-Module-Reload](#making-edits-using-webpack-hot--module--reload)
+    - [Making edits using Webpack Hot-Module-Reload](#making-edits-using-webpack-hot-module-reload)
 - [Customization and Editing](#customization-and-editing)
     - [General](#general)
     - [Images](#images)
