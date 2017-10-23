@@ -1,4 +1,5 @@
 node_modules/
-static/
+build/
+npm-debug.log
 *.sublime-project
 *.sublime-workspace
